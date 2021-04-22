@@ -1,0 +1,19 @@
+baseURL = "https://www.vicentsoria.es/"
+languageCode = "es"
+DefaultContentLanguage = "es"
+title = "Vicent Soria"
+theme = "anatole"
+enableEmoji = true
+enableRobotsTXT = true
+summarylength = 10
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
