@@ -1,6 +1,6 @@
 baseURL = "https://www.vicentsoria.es/"
-languageCode = "es"
-DefaultContentLanguage = "es"
+languageCode = "en"
+DefaultContentLanguage = "en"
 title = "Vicent Soria"
 theme = "anatole"
 enableEmoji = true
